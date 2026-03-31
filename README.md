@@ -36,7 +36,7 @@ Alongside the written report, five Bash shell scripts demonstrate practical Linu
 ## 📁 Repository Structure
 
 ```
-oss-audit-24BSA10180/
+oss-audit-24BCE10762/
 │
 ├── README.md                               ← You are here
 ├── .gitignore
@@ -153,8 +153,8 @@ chmod +x scripts/script5_manifesto_generator.sh
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/[yourusername]/oss-audit-24BSA10180.git
-cd oss-audit-24BSA10180
+git clone https://github.com/[yourusername]/oss-audit-24BCE10762.git
+cd oss-audit-24BCE10762
 
 # 2. Make all scripts executable at once
 chmod +x scripts/*.sh
@@ -198,6 +198,6 @@ chmod +x scripts/*.sh
 
 *Submitted as part of the Open Source Software (OSS NGMC) Capstone Project — VIT*
 
-*Roushan Raj Sharma | 24BSA10180*
+*Nishant Sharma | 24BCE10762*
 
 </div>
